@@ -1,0 +1,1 @@
+docker build -t technocis/demoapp-api:latest .
