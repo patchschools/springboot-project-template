@@ -16,11 +16,12 @@
 	<description>DemoApp API</description>
 
   <scm>
-        <developerConnection>scm:git:https://github.com/patchschools/${project.artifactId}</developerConnection>
+        <developerConnection>scm:git:https://github.com/patchschools/${repoName}</developerConnection>
         <tag>HEAD</tag>
     </scm>
     
-	<properties>
+	<properties>	    
+	    <repoName>springboot-project-template</repoName>
 		<java.version>17</java.version>
 		<jackson.version>2.11.1</jackson.version>
 		<springdoc.version>1.5.12</springdoc.version>
