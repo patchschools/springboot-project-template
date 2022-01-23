@@ -22,3 +22,6 @@ to
 in.coursetracker
 ```
 
+##### Step 3: Update README.md with project deployment url
+
+https://demoapp-springboot-template.herokuapp.com/
