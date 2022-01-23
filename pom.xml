@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0"
-	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
@@ -11,13 +9,13 @@
 	</parent>
 	<groupId>in.spinsoft</groupId>
 	<artifactId>demoapp-api</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>demoapp-api</name>
 	<description>DemoApp API</description>
 
   <scm>
         <developerConnection>scm:git:https://github.com/patchschools/${project.artifactId}</developerConnection>
-        <tag>HEAD</tag>
+        <tag>demoapp-api-1.0.0</tag>
     </scm>
     
 	<properties>
