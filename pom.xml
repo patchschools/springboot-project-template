@@ -8,7 +8,8 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>in.spinsoft</groupId>
-	<artifactId>demoapp-api</artifactId>
+	<!-- <artifactId>demoapp-api</artifactId> -->
+	<artifactId>springboot-project-template</artifactId>
 	<version>1.0.0</version>
 	<name>demoapp-api</name>
 	<description>DemoApp API</description>
